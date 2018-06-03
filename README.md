@@ -3,7 +3,7 @@
 #### Ubuntu
 
 ```bash
-wget https://raw.githubusercontent.com/MdNor/digital-ocean-pptp-vpn/master/ubuntu
+wget https://raw.githubusercontent.com/Aekawan/vpn-pptp-do/master/ubuntu
 ```
 
 ```bash
